@@ -18,7 +18,6 @@ terraform {
 }
 
 
-# Default provider needs to be something..
 provider "azurerm" {
   subscription_id = "33d0b471-9e2e-495f-a6f6-c2c59c3c5637"
 
